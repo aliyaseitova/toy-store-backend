@@ -1,0 +1,818 @@
+[
+    {
+        "name": "LEGO Classic Large Creative Brick Box",
+        "price": 49.99,
+        "description": "A large collection of LEGO bricks to inspire creativity.",
+        "category": "Building & Construction Toys",
+        "stock": 50,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739990868/10698_vxyjlc.jpg"
+    },
+    {
+        "name": "Barbie Dreamhouse Playset",
+        "price": 199.99,
+        "description": "A fully furnished Barbie Dreamhouse with lights and sounds.",
+        "category": "Dolls & Accessories",
+        "stock": 30,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739988696/81F1XIJm1ML_nh9has.jpg"
+    },
+    {
+        "name": "Hot Wheels Ultimate Garage",
+        "price": 129.99,
+        "description": "A multi-level Hot Wheels garage with exciting racing tracks.",
+        "category": "Action & Adventure Toys",
+        "stock": 40,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739990968/XDPjB1cY5veZZdK-X7H2z3fnr2dZZhmgmrQ_jQ8NGus_oxssw2.jpg"
+    },
+    {
+        "name": "NERF Elite 2.0 Commander Blaster",
+        "price": 15.99,
+        "description": "A high-performance NERF blaster for action-packed play.",
+        "category": "Outdoor & Sports Toys",
+        "stock": 80,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739991019/61tMrAHHq2L._AC_UF1000_1000_QL80__h9knnq.jpg"
+    },
+    {
+        "name": "Melissa & Doug Wooden Building Blocks Set",
+        "price": 29.99,
+        "description": "A set of colorful wooden blocks for creative construction.",
+        "category": "Educational Toys",
+        "stock": 60,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739991059/6ba959f47e7d002c3eb41eadf48c67707adbb197_nafjov.jpg"
+    },
+    {
+        "name": "Fisher-Price Laugh & Learn Smart Stages Puppy",
+        "price": 24.99,
+        "description": "An interactive plush puppy that teaches ABCs and 123s.",
+        "category": "Plush & Stuffed Animals",
+        "stock": 90,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739991091/81_5TGLDIAL_xdkmab.jpg"
+    },
+    {
+        "name": "Play-Doh Modeling Compound 10-Pack",
+        "price": 7.99,
+        "description": "A colorful set of Play-Doh for creative sculpting fun.",
+        "category": "Educational Toys",
+        "stock": 100,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739991133/71gHRy76hwL._AC_UF1000_1000_QL80__okf037.jpg"
+    },
+    {
+        "name": "Little Tikes Easy Score Basketball Set",
+        "price": 34.99,
+        "description": "A basketball hoop set designed for young players.",
+        "category": "Outdoor & Sports Toys",
+        "stock": 45,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739991173/4909ADAD_2_q2byf1.jpg"
+    },
+    {
+        "name": "VTech KidiZoom Creator Cam",
+        "price": 49.99,
+        "description": "A kid-friendly camera for creating fun videos with special effects.",
+        "category": "Educational Toys",
+        "stock": 25,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739991206/91H6Umi_5vL_mmoery.jpg"
+    },
+    {
+        "name": "Paw Patrol Ultimate Rescue Fire Truck",
+        "price": 39.99,
+        "description": "A feature-packed fire truck toy for Paw Patrol fans.",
+        "category": "Action & Adventure Toys",
+        "stock": 55,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739991240/81qjA3T-zvL._AC_UF894_1000_QL80__kcg12y.jpg"
+    },
+    {
+        "name": "LEGO Classic Large Creative Brick Box",
+        "price": 49.99,
+        "description": "A large collection of LEGO bricks to inspire creativity.",
+        "category": "Building & Construction Toys",
+        "stock": 50,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739990868/10698_vxyjlc.jpg"
+    },
+    {
+        "name": "Barbie Gala",
+        "price": 199.99,
+        "description": "Special collection.",
+        "category": "Dolls & Accessories",
+        "stock": 30,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739991427/nqqk4orzl6h0cltucz1c_texfo9.jpg"
+    },
+    {
+        "name": "Hot Wheels Collectible Card",
+        "price": 129.99,
+        "description": "A set of 20 collectible Hot Wheels cars.",
+        "category": "Action & Adventure Toys",
+        "stock": 40,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739992015/814DWCiBQ2L._AC_SL1500__cl1bsf.jpg"
+    },
+    {
+        "name": "NERF Disruptor Elite",
+        "price": 15.99,
+        "description": "A high-performance NERF blaster for action-packed play.",
+        "category": "Outdoor & Sports Toys",
+        "stock": 80,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739992056/51twYjKg2mL_f4js9n.jpg"
+    },
+    {
+        "name": "VTech. Play and Learn",
+        "price": 29.99,
+        "description": "Play and Learn with Vtech toys.",
+        "category": "Educational Toys",
+        "stock": 60,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739992129/227854FXXwo_akhray.jpg"
+    },
+    {
+        "name": "Festival Calendar LEGO",
+        "price": 24.99,
+        "description": "Chinese Festival Calendar LEGO",
+        "category": "Building & Construction Toys",
+        "stock": 90,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739992503/40678_nkmja4.webp"
+    },
+    {
+        "name": "Alien Planet LEGO",
+        "price": 7.99,
+        "description": "LEGO alien planet",
+        "category": "Building & Construction Toys",
+        "stock": 100,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739992604/40716_gf6ttr.webp"
+    },
+    {
+        "name": "King Magnifico's Castle LEGO",
+        "price": 34.99,
+        "description": "King Magnifico's Castle LEGO",
+        "category": "Building & Construction Toys",
+        "stock": 45,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739992652/43224_fpklps.webp"
+    },
+    {
+        "name": "Plush",
+        "price": 49.99,
+        "description": "Brown Plush Toy",
+        "category": "Educational Toys",
+        "stock": 25,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739992766/noodoll_29.10.248357_xijhjk.jpg"
+    },
+    {
+        "name": "Plush Rabbit",
+        "price": 39.99,
+        "description": "Plush Rabbit.",
+        "category": "Action & Adventure Toys",
+        "stock": 55,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739992774/KK2461_PinkBunny_wuwabw.jpg"
+    },
+    {
+        "name": "LEGO Stitch",
+        "price": 49.99,
+        "description": "A large collection of LEGO bricks to inspire creativity. Special collaboration with Disney",
+        "category": "Building & Construction Toys",
+        "stock": 50,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739991546/769b7b3739ee9aa5881df37345a604358b5898e4_31860_i1_r1vclv.jpg"
+    },
+    {
+        "name": "Barbie Malibu",
+        "price": 199.99,
+        "description": "Barbie travels to Malibu.",
+        "category": "Dolls & Accessories",
+        "stock": 30,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739991463/Barbie-Malibu-Stylist-Doll-14-Accessories-Playset-Dolls-Barbie-Toycra_700x700_wr7okh.jpg"
+    },
+    {
+        "name": "Lego Spider-Man",
+        "price": 129.99,
+        "description": "Spider-Man Lego.",
+        "category": "Building & Construction Toys",
+        "stock": 40,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739992443/76293_Box1_v39_ypkrzl.webp"
+    },
+    {
+        "name": "Plush Monkey",
+        "price": 15.99,
+        "description": "Plush Monkey.",
+        "category": "Outdoor & Sports Toys",
+        "stock": 80,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739992840/Chimpanzee-Soft-Toys-for-Kids_quul7f.jpg"
+    },
+    {
+        "name": "Barbie Morgot Robbie",
+        "price": 29.99,
+        "description": "Barbie Margot Robbie.",
+        "category": "Educational Toys",
+        "stock": 60,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739993319/Barbie-The-Movie-Collectible-Doll-Margot-Robbie-as-Barbie-in-Pink-Gingham-Dress-Toy-for-3-Years-and-Up_43517acc-792c-4db0-8e03-54e40d42802e.a3ac52b916f2f81089fc345e6218a73d_yyhfta.jpg"
+    },
+    {
+        "name": "Blue Bicycle",
+        "price": 24.99,
+        "description": "Blue Bicycle.",
+        "category": "Plush & Stuffed Animals",
+        "stock": 90,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739993576/Good-Price-OEM-Kids-Bike-Children-Bicycle-12-14-16-18-Cycle-for-Boy_pgvkk8.webp"
+    },
+    {
+        "name": "Lagoona Blue",
+        "price": 7.99,
+        "description": "Monster High Dolls.",
+        "category": "Educational Toys",
+        "stock": 100,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739995329/61psxmYyNPL_umpbdc.jpg"
+    },
+    {
+        "name": "Junior Ring",
+        "price": 29.99,
+        "description": "Junior Ring.",
+        "category": "Educational Toys",
+        "stock": 60,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739993457/Littles-Junior-Ring-Top-Tile-01_533x_k8vcal.jpg"
+    },
+    {
+        "name": "Lagoona Blue Party Edition",
+        "price": 49.99,
+        "description": "A kid-friendly camera for creating fun videos with special effects.",
+        "category": "Educational Toys",
+        "stock": 25,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739995439/71g4RdjM6TL._AC_SL1500__nouzpk.jpg"
+    },
+    {
+        "name": "Draculaura",
+        "price": 39.99,
+        "description": "Monster High Doll.",
+        "category": "Action & Adventure Toys",
+        "stock": 55,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739995537/71zbQmc16nL._AC_SL1500__zytvtt.jpg"
+    },
+    {
+        "name": "LEGO Star Wars",
+        "price": 49.99,
+        "description": "A large collection of LEGO bricks to inspire creativity.",
+        "category": "Building & Construction Toys",
+        "stock": 50,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739991710/1_948930bc-4b88-490b-9723-879754ed0f13_grande_kmf18h.jpg"
+    },
+    {
+        "name": "Draculaura. Monster High",
+        "price": 199.99,
+        "description": "Monster High. Draculaura in white and black",
+        "category": "Dolls & Accessories",
+        "stock": 30,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739991753/Monster-High-Reel-Drama-Draculaura-Doll-Pet-Black-White-Look-Mini-Life-Sized-Movie-Posters_61f6a96e-def1-46a7-b97d-61b86940fa57.520868774beb1b2f05cf1cf9c426547e_h3bimz.jpg"
+    },
+    {
+        "name": "Cleo De Nile",
+        "price": 129.99,
+        "description": "Monster High Dolls.",
+        "category": "Action & Adventure Toys",
+        "stock": 40,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739995607/Cleo-451x1024_rcsw3i.jpg"
+    },
+    {
+        "name": "Ghoulia",
+        "price": 15.99,
+        "description": "Monster High Dolls.",
+        "category": "Outdoor & Sports Toys",
+        "stock": 80,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739995665/81asc8KbEkL_zusahu.jpg"
+    },
+    {
+        "name": "Hot Wheels Small Bloc Car",
+        "price": 29.99,
+        "description": "Hot Wheels Small Bloc Car.",
+        "category": "Educational Toys",
+        "stock": 60,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739995748/SmallBlocCreamColour_600x858_nzrybt.jpg"
+    },
+    {
+        "name": "Crocodile Piano Toy",
+        "price": 24.99,
+        "description": "A piano.",
+        "category": "Plush & Stuffed Animals",
+        "stock": 90,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739996300/BT2680_PR_oicad7.jpg"
+    },
+    {
+        "name": "Digital Toy Piano",
+        "price": 7.99,
+        "description": "A red digital piano toy.",
+        "category": "Educational Toys",
+        "stock": 100,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739996355/4a61447249703ba9395b9fa5188ea507_sp_dux9kd.png"
+    },
+    {
+        "name": "Hot Wheels 2020 Koeniggsegg Jesko Car",
+        "price": 34.99,
+        "description": "Hot Wheels 2020 Koeniggsegg Jesko Car.",
+        "category": "Outdoor & Sports Toys",
+        "stock": 45,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739996406/6266da2cefccfc9dffcfa0c5_fg7ph4.jpg"
+    },
+    {
+        "name": "Barbie Morgot Robbie",
+        "price": 29.99,
+        "description": "Barbie Margot Robbie.",
+        "category": "Educational Toys",
+        "stock": 60,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739993319/Barbie-The-Movie-Collectible-Doll-Margot-Robbie-as-Barbie-in-Pink-Gingham-Dress-Toy-for-3-Years-and-Up_43517acc-792c-4db0-8e03-54e40d42802e.a3ac52b916f2f81089fc345e6218a73d_yyhfta.jpg"
+    },
+    {
+        "name": "Misty Brightdawn",
+        "price": 39.99,
+        "description": "Misty Brightdawn My Little Pony doll.",
+        "category": "Action & Adventure Toys",
+        "stock": 55,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739996472/F64545L00_pkg_23_Online_50PX_1000SQ_m3nc7s.jpg"
+    },
+    {
+        "name": "My Little Pony doll",
+        "price": 49.99,
+        "description": "My Little Pony doll.",
+        "category": "Building & Construction Toys",
+        "stock": 50,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739996538/MY-LITTLE-PONY-Princess-Cadence__scaled_800_xuuc2b.jpg"
+    },
+    {
+        "name": "Clawdeen. Monster High",
+        "price": 199.99,
+        "description": "Monster High",
+        "category": "Dolls & Accessories",
+        "stock": 30,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739991823/71t9rpuEX_L_v2xnmx.jpg"
+    },
+    {
+        "name": "Play-Doh",
+        "price": 129.99,
+        "description": "Play-Doh.",
+        "category": "Action & Adventure Toys",
+        "stock": 40,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739991133/71gHRy76hwL._AC_UF1000_1000_QL80__okf037.jpg"
+    },
+    {
+        "name": "LEGO Classic Large Creative Brick Box",
+        "price": 49.99,
+        "description": "A large collection of LEGO bricks to inspire creativity.",
+        "category": "Building & Construction Toys",
+        "stock": 50,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739990868/10698_vxyjlc.jpg"
+    },
+    {
+        "name": "Barbie Dreamhouse Playset",
+        "price": 199.99,
+        "description": "A fully furnished Barbie Dreamhouse with lights and sounds.",
+        "category": "Dolls & Accessories",
+        "stock": 30,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739988696/81F1XIJm1ML_nh9has.jpg"
+    },
+    {
+        "name": "Hot Wheels Ultimate Garage",
+        "price": 129.99,
+        "description": "A multi-level Hot Wheels garage with exciting racing tracks.",
+        "category": "Action & Adventure Toys",
+        "stock": 40,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739990968/XDPjB1cY5veZZdK-X7H2z3fnr2dZZhmgmrQ_jQ8NGus_oxssw2.jpg"
+    },
+    {
+        "name": "NERF Elite 2.0 Commander Blaster",
+        "price": 15.99,
+        "description": "A high-performance NERF blaster for action-packed play.",
+        "category": "Outdoor & Sports Toys",
+        "stock": 80,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739991019/61tMrAHHq2L._AC_UF1000_1000_QL80__h9knnq.jpg"
+    },
+    {
+        "name": "My Little Pony",
+        "price": 29.99,
+        "description": "My little pony princess.",
+        "category": "Educational Toys",
+        "stock": 60,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739996102/1593113357_youloveit_com_kiss_my_unicorn_mlp_wbqcgz.jpg"
+    },
+    {
+        "name": "NERF SPEED ULTRA",
+        "price": 49.99,
+        "description": "NERF SPEED ULTRA.",
+        "category": "Educational Toys",
+        "stock": 25,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739996591/36383507-2651-4eb9-8d9e-b0fb451e919b.759c71f335580476aa56b5cc0ad069f2_ptwb05.jpg"
+    },
+    {
+        "name": "NERF DINO",
+        "price": 39.99,
+        "description": "NERF DINO.",
+        "category": "Action & Adventure Toys",
+        "stock": 55,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739996656/nerf-dino-armostryke-blaster_augmsl.jpg"
+    },
+    {
+        "name": "Fisher-Price Laugh & Learn Smart Stages Puppy",
+        "price": 24.99,
+        "description": "An interactive plush puppy that teaches ABCs and 123s.",
+        "category": "Plush & Stuffed Animals",
+        "stock": 90,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739995170/1200Wx1200H-572529-Primary_j7e8fi.jpg"
+    },
+    {
+        "name": "Monster High. Toralei",
+        "price": 199.99,
+        "description": "Toralei Stripe Monster High doll",
+        "category": "Dolls & Accessories",
+        "stock": 30,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739991940/232623_rktrqo.jpg"
+    },
+    {
+        "name": "EDUCATIONAL TOY FOR KIDS",
+        "price": 129.99,
+        "description": "WHAT IS IN MY TUMMY.",
+        "category": "Action & Adventure Toys",
+        "stock": 40,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739996709/basic-skill-board-228463-259096_600x_tyelcl.jpg"
+    },
+    {
+        "name": "NERF Elite EAGLEPOINT Blaster",
+        "price": 15.99,
+        "description": "A high-performance NERF blaster for action-packed play.",
+        "category": "Outdoor & Sports Toys",
+        "stock": 80,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739996761/nerf-elite-20-eaglepoint-rd-8-834664-en_wvm81g.jpg"
+    },
+    {
+        "name": "Junior Ring",
+        "price": 29.99,
+        "description": "Junior Ring.",
+        "category": "Educational Toys",
+        "stock": 60,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739993457/Littles-Junior-Ring-Top-Tile-01_533x_k8vcal.jpg"
+    },
+    {
+        "name": "Kids' Educational Toy",
+        "price": 24.99,
+        "description": "An interactive toy that immitates sounds of animals.",
+        "category": "Plush & Stuffed Animals",
+        "stock": 90,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1740003704/11744868a_yj67h9.webp"
+    },
+    {
+        "name": "Fruits and Vegetables",
+        "price": 7.99,
+        "description": "A colorful set plastic toys made as fruits and vegetables.",
+        "category": "Educational Toys",
+        "stock": 100,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1740003764/177404268_max_a0xsun.jpg"
+    },
+    {
+        "name": "Little Phillip Bicycle",
+        "price": 34.99,
+        "description": "A pink bicycle.",
+        "category": "Outdoor & Sports Toys",
+        "stock": 45,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739992302/1798133-01_adcgxt.jpg"
+    },
+    {
+        "name": "VTech Interactive Table",
+        "price": 49.99,
+        "description": "A kid-friendly interactive table for learning.",
+        "category": "Educational Toys",
+        "stock": 25,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739992129/227854FXXwo_akhray.jpg"
+    },
+    {
+        "name": "Yellow Bicycle",
+        "price": 399.99,
+        "description": "Yellow Bicycle.",
+        "category": "Action & Adventure Toys",
+        "stock": 55,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739993817/81OOQuAilhL_rfqwts.jpg"
+    },
+    {
+        "name": "Plush Sheep",
+        "price": 49.99,
+        "description": "Collection of Plush Toys",
+        "category": "Building & Construction Toys",
+        "stock": 50,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739995967/4631-1_qtbu64.jpg"
+    },
+    {
+        "name": "Blue Bicycle",
+        "price": 24.99,
+        "description": "Blue Bicycle.",
+        "category": "Plush & Stuffed Animals",
+        "stock": 90,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739993576/Good-Price-OEM-Kids-Bike-Children-Bicycle-12-14-16-18-Cycle-for-Boy_pgvkk8.webp"
+    },
+    {
+        "name": "My little Pony Pinkie Pie",
+        "price": 129.99,
+        "description": "My little Pony Pinkie Pie.",
+        "category": "Action & Adventure Toys",
+        "stock": 40,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739996094/my-little-pony-toy-oh-my-giggles-pinkie-pie-20-cm-interactive-toy-with-sounds-and-movement-kids-aged-3-years-old-and-up-808843_vdi31q.jpg"
+    },
+    {
+        "name": "Barbie DreamTopia Princess",
+        "price": 29.99,
+        "description": "Barbie DreamTopia Princess Doll.",
+        "category": "Educational Toys",
+        "stock": 60,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739993381/243079_5_qg851v.jpg"
+    },
+    {
+        "name": "Fisher-Price Laugh & Learn Smart Stages Puppy",
+        "price": 24.99,
+        "description": "An interactive plush puppy that teaches ABCs and 123s.",
+        "category": "Plush & Stuffed Animals",
+        "stock": 90,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739991091/81_5TGLDIAL_xdkmab.jpg"
+    },
+    {
+        "name": "Barbie Gala",
+        "price": 199.99,
+        "description": "Special collection.",
+        "category": "Dolls & Accessories",
+        "stock": 30,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739991427/nqqk4orzl6h0cltucz1c_texfo9.jpg"
+    },
+    {
+        "name": "Plush Dog",
+        "price": 39.99,
+        "description": "Plush Animals.",
+        "category": "Action & Adventure Toys",
+        "stock": 55,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739995897/71MsStlS4YL_iopglk.jpg"
+    },
+    {
+        "name": "Melissa & Doug Wooden Building Blocks Set",
+        "price": 29.99,
+        "description": "A set of colorful wooden blocks for creative construction.",
+        "category": "Educational Toys",
+        "stock": 60,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739991059/6ba959f47e7d002c3eb41eadf48c67707adbb197_nafjov.jpg"
+    },
+    {
+        "name": "Barbie Deluxe Style",
+        "price": 15.99,
+        "description": "Barbie Deluxe Style.",
+        "category": "Outdoor & Sports Toys",
+        "stock": 80,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739995023/245602_3_jt104x.jpg"
+    },
+    {
+        "name": "Green Bicycle",
+        "price": 15.99,
+        "description": "Green Bicycle.",
+        "category": "Outdoor & Sports Toys",
+        "stock": 80,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739995086/H151c8b4e04794b4c843066387f1515f1l.jpg_720x720q50_iu52n0.jpg"
+    },
+    {
+        "name": "Plush Bread",
+        "price": 15.99,
+        "description": "Plush Bread.",
+        "category": "Outdoor & Sports Toys",
+        "stock": 80,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739995114/1718956248343-9d6849aca510406c952e87e4881bdfc8-goods.jpeg_yc0782.webp"
+    },
+    {
+        "name": "Plush Sheep",
+        "price": 15.99,
+        "description": "Plush Sheep brown toy.",
+        "category": "Outdoor & Sports Toys",
+        "stock": 80,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1740003831/DSC01323__44057.1731458900_l9xikl.jpg"
+    },
+    {
+        "name": "Fisher-Price Laugh & Learn Smart Stages Puppy",
+        "price": 24.99,
+        "description": "An interactive plush puppy that teaches ABCs and 123s.",
+        "category": "Plush & Stuffed Animals",
+        "stock": 90,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739995170/1200Wx1200H-572529-Primary_j7e8fi.jpg"
+    },
+    {
+        "name": "Autumn Baby Toy",
+        "price": 49.99,
+        "description": "A plush toy for toddlers.",
+        "category": "Educational Toys",
+        "stock": 25,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1740003894/Autumn-Plush-Baby-Toys-Toddlers-Musical-Stuffed-Animals-Light-Up-Button-Learning-Safe-Toy-3-Months-Olds-Infants-Babies-Toddlers-12-Rhyme-Sound-Effect_42810771-c350-41e1-a577-70bf911414ae.feb32047f651f992123d87d53c0e5c9a_aavuvn.png"
+    },
+    {
+        "name": "Unicorn",
+        "price": 39.99,
+        "description": "Unicorn plush toy.",
+        "category": "Action & Adventure Toys",
+        "stock": 55,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1740003940/61agJ3jF9jL._AC_UF894_1000_QL80__ld5mlb.jpg"
+    },
+    {
+        "name": "Paw Patroller",
+        "price": 49.99,
+        "description": "Paw patroller with plastic figures for real fans.",
+        "category": "Building & Construction Toys",
+        "stock": 50,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1740004013/PAW-Patrol-PAW-Patroller-with-Lights-Sounds-Ryder-Figure-ATV-Vehicle_d08922c5-2d67-4220-b087-2d490674f243.dc7034778124c6b8cf6f775cbd1d44f9_bfey11.jpg"
+    },
+    {
+        "name": "Paw Patrol Vehicle",
+        "price": 199.99,
+        "description": "Paw patrol rescue vehicle.",
+        "category": "Dolls & Accessories",
+        "stock": 30,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1740004013/PAW-Patrol-PAW-Patroller-with-Lights-Sounds-Ryder-Figure-ATV-Vehicle_d08922c5-2d67-4220-b087-2d490674f243.dc7034778124c6b8cf6f775cbd1d44f9_bfey11.jpg"
+    },
+    {
+        "name": "Chaise's Mighty Movie Cruiser",
+        "price": 129.99,
+        "description": "Paw patrol rescue vehicle belonging to one of the characters.",
+        "category": "Action & Adventure Toys",
+        "stock": 40,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1740004116/image_d7z3iy.jpg"
+    },
+    {
+        "name": "NERF MEGA Blaster",
+        "price": 15.99,
+        "description": "A high-performance NERF blaster for action-packed play.",
+        "category": "Outdoor & Sports Toys",
+        "stock": 80,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739992925/-nerf-mega-motostryke-527b9617-49da-4004-b225-a71c375e1418-jpgrendition_wm4ssg.jpg"
+    },
+    {
+        "name": "Little Phillip Bicycle",
+        "price": 34.99,
+        "description": "A pink bicycle.",
+        "category": "Outdoor & Sports Toys",
+        "stock": 45,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739992302/1798133-01_adcgxt.jpg"
+    },
+    {
+        "name": "VTech Interactive Table",
+        "price": 49.99,
+        "description": "A kid-friendly interactive table for learning.",
+        "category": "Educational Toys",
+        "stock": 25,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739992129/227854FXXwo_akhray.jpg"
+    },
+    {
+        "name": "Rainbow Ball Puzzle",
+        "price": 49.99,
+        "description": "Rainbow Ball Puzzle.",
+        "category": "Educational Toys",
+        "stock": 25,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739994063/kidzbuzz-toys-games-magic-rainbow-ball-puzzle-cube-fidget-educational-toy-31963635810486_vgykcq.jpg"
+    },
+    {
+        "name": "Hot Wheels MonsterTruck",
+        "price": 39.99,
+        "description": "HotWheels. MonsterTruck.",
+        "category": "Action & Adventure Toys",
+        "stock": 55,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739993955/qK5atSzaDQcl9YjX_epfqRgXNJmOoRQM4_KE_52DPJY_kp2isw.jpg"
+    },
+    {
+        "name": "LEGO Classic Large Creative Brick Box",
+        "price": 49.99,
+        "description": "A large collection of LEGO bricks to inspire creativity.",
+        "category": "Building & Construction Toys",
+        "stock": 50,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739990868/10698_vxyjlc.jpg"
+    },
+    {
+        "name": "Wooden Triangle Activity Tool for Kids",
+        "price": 129.99,
+        "description": "Wooden Triangle Activity Tool for Kids.",
+        "category": "Action & Adventure Toys",
+        "stock": 40,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739993636/1_df0e79da-8cae-41ef-85a3-1717019b2fe0_fqk5ip.jpg"
+    },
+    {
+        "name": "Hot Wheels Basic Purple Car",
+        "price": 129.99,
+        "description": "Hot Wheels Basic Purple Car.",
+        "category": "Action & Adventure Toys",
+        "stock": 40,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739994008/94f85513bdcdaaff4f5f4dc9df4f3ea6bc33c3da_108289_i4_jkiy3f.jpg"
+    },
+    {
+        "name": "Barbie Morgot Robbie",
+        "price": 29.99,
+        "description": "Barbie Margot Robbie.",
+        "category": "Educational Toys",
+        "stock": 60,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739993319/Barbie-The-Movie-Collectible-Doll-Margot-Robbie-as-Barbie-in-Pink-Gingham-Dress-Toy-for-3-Years-and-Up_43517acc-792c-4db0-8e03-54e40d42802e.a3ac52b916f2f81089fc345e6218a73d_yyhfta.jpg"
+    },
+    {
+        "name": "New generation Rainbow Pony",
+        "price": 24.99,
+        "description": "New generation Rainbow Pony.",
+        "category": "Plush & Stuffed Animals",
+        "stock": 90,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1740003237/553109-Primary-1200Wx1200H_vqsoeb.jpg"
+    },
+    {
+        "name": "Princess Pitt",
+        "price": 7.99,
+        "description": "My Little Pony Princess Pitt toy.",
+        "category": "Educational Toys",
+        "stock": 100,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1740003308/My-Little-Pony-Toys-Princess-Pipp-Petals-Style-of-The-Day-5-Inch-Hair-Styling-Dolls-Toys-for-5-Year-Old-Girls-and-Boys_9d9fcfa1-e397-4c33-bc8c-514ad388f1cb.72527a990906b81091e3d5b26e000fd0_fduiqk.jpg"
+    },
+    {
+        "name": "Apple Jack",
+        "price": 34.99,
+        "description": "My Little Pony Apple Jack toy.",
+        "category": "Outdoor & Sports Toys",
+        "stock": 45,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1740003368/5010994957629sfp10.63433700_1597876211_fztnci.jpg"
+    },
+    {
+        "name": "VTech KidiZoom",
+        "price": 49.99,
+        "description": "A kid-friendly tool for having with special effects.",
+        "category": "Educational Toys",
+        "stock": 25,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739993702/714je0REWJL._AC_SL1500__lfbglw.jpg"
+    },
+    {
+        "name": "Paw Patrol Ultimate Rescue Fire Truck",
+        "price": 39.99,
+        "description": "A feature-packed fire truck toy for Paw Patrol fans.",
+        "category": "Action & Adventure Toys",
+        "stock": 55,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739991240/81qjA3T-zvL._AC_UF894_1000_QL80__kcg12y.jpg"
+    },
+    {
+        "name": "TWILIGHT SPARKLE",
+        "price": 49.99,
+        "description": "TWILIGHT SPARKLE MY LITTLE PONY.",
+        "category": "Building & Construction Toys",
+        "stock": 50,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739996875/6575d3980d74e5661c6e9dac-my-little-pony-toy-6-inch-figure_gyk3rb.jpg"
+    },
+    {
+        "name": "NERF MEGA",
+        "price": 199.99,
+        "description": "NERF MEGA",
+        "category": "Dolls & Accessories",
+        "stock": 30,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739992925/-nerf-mega-motostryke-527b9617-49da-4004-b225-a71c375e1418-jpgrendition_wm4ssg.jpg"
+    },
+    {
+        "name": "Hot Wheels Die Cast",
+        "price": 129.99,
+        "description": "A multi-level Hot Wheels garage with exciting racing tracks.",
+        "category": "Action & Adventure Toys",
+        "stock": 40,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739994661/000183289-1_stiane.jpg"
+    },
+    {
+        "name": "Hot Wheels Punk Rod",
+        "price": 15.99,
+        "description": "Hot Wheels Punk Rod.",
+        "category": "Outdoor & Sports Toys",
+        "stock": 80,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739994712/i-hot-wheels-punk-rod-hry48_bjqnxx.jpg"
+    },
+    {
+        "name": "NERF FORTNITE Blaster",
+        "price": 15.99,
+        "description": "NERF FORTNITE Blaster.",
+        "category": "Outdoor & Sports Toys",
+        "stock": 80,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739994785/5u92PKpJLJnKNPC6Tk5hPg-1200-80_xxg3pl.jpg"
+    },
+    {
+        "name": "Barbie DreamTopia Princess",
+        "price": 29.99,
+        "description": "Barbie DreamTopia Princess Doll.",
+        "category": "Educational Toys",
+        "stock": 60,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739993381/243079_5_qg851v.jpg"
+    },
+    {
+        "name": "Hot Wheels Small Bloc Car",
+        "price": 29.99,
+        "description": "Hot Wheels Small Bloc Car.",
+        "category": "Educational Toys",
+        "stock": 60,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739995748/SmallBlocCreamColour_600x858_nzrybt.jpg"
+    },
+    {
+        "name": "Barbie Gala",
+        "price": 199.99,
+        "description": "Special collection.",
+        "category": "Dolls & Accessories",
+        "stock": 30,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739991427/nqqk4orzl6h0cltucz1c_texfo9.jpg"
+    },
+    {
+        "name": "Melissa & Doug Wooden Building Blocks Set",
+        "price": 29.99,
+        "description": "A set of colorful wooden blocks for creative construction.",
+        "category": "Educational Toys",
+        "stock": 60,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739991059/6ba959f47e7d002c3eb41eadf48c67707adbb197_nafjov.jpg"
+    },
+    {
+        "name": "Plush Monkey",
+        "price": 39.99,
+        "description": "Plush Monkey.",
+        "category": "Action & Adventure Toys",
+        "stock": 55,
+        "image": "https://res.cloudinary.com/dxnf2kltk/image/upload/v1739995861/81gHHQK9WgL_ttfech.jpg"
+    }
+]
