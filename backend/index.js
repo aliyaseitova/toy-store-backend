@@ -3,6 +3,8 @@ const dotenv = require("dotenv");
 const cors = require("cors");
 const mongoose = require("./config/db");
 const path = require("path")
+const connectDB = require("./config/db");
+connectDB();
 
 const authRoutes = require("./routes/authRoutes");
 const productRoutes = require("./routes/productRoutes");
